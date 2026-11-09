@@ -26,7 +26,7 @@ Some choices we made:
 
 ## Part 2: STPA of an AI anti-phishing system
 
-The assignment allowed us to replace the voice assistant with another system where losses matter. We all study cybersecurity, so we chose something closer to what we work on: an AI-based anti-phishing gateway that checks every incoming email before it reaches the user. Phishing is one of the most common ways companies lose money and accounts, and the AI takes real decisions (warn, flag, block), which makes it a good case for STPA. It also let us look at the link between safety and security, for example when an attacker writes text in an email to fool the classifier.
+The assignment allowed us to replace the voice assistant with another system where losses matter. Most of us study cybersecurity, so we chose something closer to what we work on: an AI-based anti-phishing gateway that checks every incoming email before it reaches the user. Phishing is one of the most common ways companies lose money and accounts, and the AI takes real decisions (warn, flag, block), which makes it a good case for STPA. It also let us look at the link between safety and security, for example when an attacker writes text in an email to fool the classifier.
 
 The full analysis (architecture, losses, hazards, unsafe control actions, requirements and verification plan) is in the report.
 
